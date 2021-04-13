@@ -11,3 +11,4 @@ while (loop < 10):
     #Displays the story based on the users input
     print("--------------------------------------")
     print ("Beyond the pale light", noun," the ", p_noun)
+    print("For a duck may be somebody's", noun2,",")
